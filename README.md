@@ -1,4 +1,4 @@
-# SENSEI
+# SENSEI [先生]
 A small iOS app for learning Karate
 
 NOTE
